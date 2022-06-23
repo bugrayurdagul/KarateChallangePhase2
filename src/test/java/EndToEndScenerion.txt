@@ -1,0 +1,13 @@
+Spotify E2E Test Senaryosu
+
+-Spotify'a login olunur.
+-Login olunduğu kontrol edilir. (UI)
+-Arama sayfasına gidilir.
+-'Merdiven Altı Terapi' aratılır.
+-Podcast'ler ve Programlar sekmesine tıklanır.
+-En son bölüm için Kitaplığına Kaydet butonuna tıklanır.
+-Bölümün kaydedildiği doğrulanır. (UI+API)
+-En son bölüm oynatılır. 
+-Bölüm durdurulur.
+-Çıkış Yapılır
+
